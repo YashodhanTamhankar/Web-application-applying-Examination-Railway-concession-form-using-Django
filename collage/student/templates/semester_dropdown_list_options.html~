@@ -1,4 +1,0 @@
-
-{% for semester in semesters %}
-
-{% endfor %}

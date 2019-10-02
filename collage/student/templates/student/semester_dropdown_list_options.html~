@@ -1,4 +1,0 @@
-<option value="">---</option>
-{% for semester in semesters %}
-<option value="{{ semester.id }}"><input type="checkbox">{{ semester.name }}</option>
-{% endfor %}

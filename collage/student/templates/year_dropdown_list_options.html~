@@ -1,4 +1,0 @@
-<option value="">---</option>
-{% for semester in semesters %}
-<option value="{{ semester.id }}">{{ semester.name }}</option>
-{% endfor %}
